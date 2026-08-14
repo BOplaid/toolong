@@ -32,6 +32,7 @@ from ...utils import (
     variadic,
 )
 
+
 class _PoTokenContext(enum.Enum):
     PLAYER = 'player'
     GVS = 'gvs'
